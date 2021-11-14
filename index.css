@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+body{
+    background-color: #FFE699;
+}
+input{
+    margin: 10px;
+    border-radius: 15px;
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(127, 255, 165);
+    padding: 10px;
+    border-radius: 25px;
+}
+p{
+    margin: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#gg{
+    padding: 10px;
+    border: 4px solid purple;
+    border-radius: 25px;
+}
+div{
+    display: inline-block;
+    background-color: lightblue;
+    border-radius: 30px;
+}
